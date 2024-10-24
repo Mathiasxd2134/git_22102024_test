@@ -10,10 +10,15 @@ Pasos a seguir:
 6. Dentro del directorio con el nombre del repositorio, utilizar los siguientes comandos:
    
     a.  git init
+
     b.  git add nombre_archivo.txt
+
     c.  git status
-    c.  git commit -m "Mi primer commit"
-    d.  git push
+
+    d.  git commit -m "Mi primer commit"
+
+    e.  git push
+
 
 7. Refrescar la pagina del repositorio.
 8. Crear un archivo llamado README.md
