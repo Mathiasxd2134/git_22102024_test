@@ -1,9 +1,9 @@
 
 def saludo():
     print("Hola,mundo!")
+    print("SESION 2 DE GIT CAMBIOS EN EL REPOSITORIO REMOTO")
     print("SESION 2  DE GIT CAMBIOS EN EL REPOSITORIO REMOTO DESDE WINDOWS")
-    print("Esta línea de codigo fue desarrollada en la PC ubuntu")
-    print("Trabajamos en ubuntu desde 9:28pm-9:30pm")
+    print("SESION 2 DE GIT CAMBIOS REALIZADOS EN EL BRANCH - OJO EN EL BRANCH")
 
     
 
