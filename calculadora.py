@@ -1,9 +1,9 @@
 # calculadora.py
 
-def suma_+1(a ,b):
-    return a+b+1
+def suma(a ,b):
+    return a+b
 
-res= sumar(4,5)
+res= suma(4,5)
 print("El resultado es:",res)
 
 
