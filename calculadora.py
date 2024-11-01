@@ -5,3 +5,6 @@ def sumar(a ,b):
 
 res= sumar(4,5)
 print("El resultado es:",res)
+
+def multiplicar(a ,b):
+    return a*b
