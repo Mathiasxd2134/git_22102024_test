@@ -24,7 +24,8 @@ Pasos a seguir:
 
 7. Refrescar la pagina del repositorio.
 8. Crear un archivo llamado README.md
-9. Editar el archivo respetando la sintaxis MarkDown y repetir el paso 6 para actualizar
+9. Editar el archivo respetando la sintaxis MarkDown y repetir el paso 6 para actualizar.
+
 
 # **    2DO METODO PARA CREAR Y ACTUALIZAR UN REPOSITORIO POR PRIMERA VEZ**
 
